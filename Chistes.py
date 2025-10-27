@@ -1,5 +1,6 @@
 import random
 #la suma de otro comimmt
+#Se supone que este es otro commit 
 def contar_chiste():
     chistes = [
         "¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.",
